@@ -1,6 +1,6 @@
 # :octocat: Projek Kriptografi
 ## :earth_asia: Kalkulator S-DES (Web Based)
-### :grey_exclamation: Our Website is Now Live on <https://fauzanakmalh1.github.io/Simplified-DES-Calculator/>
+### :grey_exclamation: Our Website is Now Live on <https://ryzanugrah.github.io/Simplified-DES-Calculator/>
 
 ### :notebook: Nama Kelompok:
 * :grinning: Fauzan Akmal H (140810180005)
